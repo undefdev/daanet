@@ -9,6 +9,9 @@
 - Python >= 3.6
 - Tensorflow >= 1.6 (self-compiled TF-gpu is recommended!)
 - gputil >= 1.3.0
+- dataIO >= 0.0.5
+- ruamel.yaml >= 0.15.66
+- GPUtil >=1.3.0
 - GPU
 
 ## Usage
